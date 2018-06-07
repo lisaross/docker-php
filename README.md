@@ -1,2 +1,5 @@
 # docker-php
-dev PHP image setup - mysql, mailhog, browscap, xdebug, phpunit, etc
+dev LAMP image - mysql, apache, mailhog, browscap, xdebug, phpunit, etc
+
+## NOTES: 
+* should we look at nginx?
